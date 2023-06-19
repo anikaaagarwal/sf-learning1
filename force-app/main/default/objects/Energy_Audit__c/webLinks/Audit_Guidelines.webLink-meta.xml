@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Audit_Guidelines</fullName>
+    <availability>online</availability>
+    <description>WHO guidlines</description>
+    <displayType>massActionButton</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>Audit Guidelines</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <requireRowSelection>true</requireRowSelection>
+    <url>https://anika2-dev-ed.develop.my.salesforce.com/sfc/p/5i00000DxktV/a/5i000000yW9K/PS_sm5Ilo3z.si35eOOO8I9bdqHGY0oXC_D.muMbBlQ</url>
+</WebLink>
